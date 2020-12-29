@@ -51,7 +51,6 @@ p {
 	url("../imgs/windows-xp.png") no-repeat 100%;
 	
 	background-size: 20%, 20%, cover;
-
 }
 
 #linear {
@@ -81,8 +80,6 @@ p {
 	grid-column: 3 / 1;
 	background: url("../imgs/road.png") no-repeat;
 	background-size: cover;
-
-
 }
 
 #content6 img {
@@ -111,17 +108,13 @@ p {
 	body {
 		background-color: #4D5F6E;
 	}
-
-
+	
 	.container > * {
 	border: 2px solid #000;
 	}
 
-
-	
-
 	@keyframes crossRoad {
 	from{ transform: translateX(0); }
 	to  { transform: translateX(750%); }
-}
+	}
 }
