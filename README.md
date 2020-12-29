@@ -1,6 +1,6 @@
 # WEBD168-Final
  
-Final website project for my WEBD168 class in 2017 that showcases knowledge of HTML and CSS concepts.
+Final project for my WEBD168 class in 2017 that showcases knowledge of HTML and CSS concepts.
 
 ## Access
 
