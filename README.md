@@ -4,4 +4,4 @@ Final project for my WEBD168 class in 2017 that showcases knowledge of HTML and 
 
 ## Access
 
-View webpage [here](https://ephan627.github.io/WEBD168-Final/).
+View webpage [here](https://ephan23.github.io/WEBD168-Final/).
